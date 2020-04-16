@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS entity;
+
+CREATE TABLE entity (
+  id VARCHAR(250) PRIMARY KEY,
+  first_name VARCHAR(250) NOT NULL,
+  last_name VARCHAR(250) NOT NULL,
+  career VARCHAR(250) NOT NULL
+);

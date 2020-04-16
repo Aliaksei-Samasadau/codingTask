@@ -1,0 +1,6 @@
+PRIMARY_KEY,NAME,DESCRIPTION,UPDATED_TIMESTAMP
+1,name,werwer_updated,2016-11-09 11:44:44
+2,,werwer_updated,2016-11-09 11:44:44
+3,name,,2016-11-09 11:44:44
+4,name,werwer_updated,
+5,desc2,werwer2_updated,2016-11-09 11:44:22
